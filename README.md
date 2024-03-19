@@ -1,5 +1,5 @@
 - 👋 Hi, I’m bilal bhatt
-- 👀 I’m interested in web development and machine learning
+- 👀 I’m interested in Data Engineering and machine learning
 - 🌱 I’m currently learning python and machine learning
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 email: blzbbhztt123@gail.com/ ph. 9622927445
